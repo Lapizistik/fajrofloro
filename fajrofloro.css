@@ -6,10 +6,10 @@ body {
 div#jitsi {
 		padding:0px;
 		margin:0px;
-		height:80vh;
+		height:50vh;
 }
 div#game {
-		height:20vh;
+		height:50vh;
 		box-sizing: border-box;
 		border:2px solid black;
 		padding: 5px;
